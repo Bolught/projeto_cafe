@@ -14,6 +14,16 @@ O diagrama Entidade-Relacionamento (ER) abaixo ilustra a estrutura do banco de d
 
 ---
 
+## 📄 Visualização das Tabelas (Excel)
+
+A seguir, uma visualização das tabelas do banco de dados representadas em formato de planilha:
+
+![Visualização 1 das tabelas do Excel](https://github.com/Bolught/projeto_cafe/blob/main/imagens/excel_cafe_aroma01.png)
+![Visualização 2 das tabelas do Excel](https://github.com/Bolught/projeto_cafe/blob/main/imagens/excel_cafe_aroma02.png)
+![Visualização 3 das tabelas do Excel](https://github.com/Bolught/projeto_cafe/blob/main/imagens/excel_cafe_aroma03.png)
+
+---
+
 ## 🏗️ Estrutura das Tabelas
 
 O banco de dados é composto pelas seguintes tabelas:
